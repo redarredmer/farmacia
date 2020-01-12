@@ -9,6 +9,7 @@ package com.mycompany.farmacia.modelo;
  *
  * @author edson
  */
-public class formula {
-    
+public class compuesto {
+    int id;
+    String nombre;
 }
